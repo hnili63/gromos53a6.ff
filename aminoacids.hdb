@@ -1,24 +1,3 @@
-
-Skip to content
-Learn Git and GitHub without any code!
-
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-hnili63 /
-gromacs
-forked from gromacs/gromacs
-
-Code
-Pull requests
-Actions
-Projects
-
-More
-gromacs/share/top/gromos53a6.ff/aminoacids.hdb
-@dspoel
-dspoel Fixed force field files for ATP in order to clear bug
-History
-1 contributor
-174 lines (174 sloc) 3.08 KB
 ABU     1       
 1	1	H	N	-C	CA
 ACEH    1       
